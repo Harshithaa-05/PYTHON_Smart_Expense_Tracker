@@ -44,5 +44,5 @@ This project is a Python-based command-line application designed to manage and a
 
 Screenshots of program output and pie charts can be added in the `screenshots` folder.
 
-## 👩 Author
+##  Author
 Harshitha
